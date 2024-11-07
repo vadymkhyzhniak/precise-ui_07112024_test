@@ -1,0 +1,14 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://stackoverflow.com/tags/"
+    },
+    {
+      "pattern": "^https://guides.github.com/"
+    }
+  ],
+  "aliveStatusCodes": [
+    429,
+    200
+  ]
+}
